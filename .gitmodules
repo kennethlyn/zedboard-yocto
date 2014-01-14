@@ -1,0 +1,4 @@
+[submodule "meta-xilinx"]
+	path = meta-xilinx
+	url = git://git.yoctoproject.org/meta-xilinx
+	branch = dora

@@ -9,6 +9,7 @@ sources/
 meta-*/
 !meta-skeleton
 !meta-hob
+!meta-xilinx
 hob-image-*.bb
 *.swp
 *.orig
